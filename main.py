@@ -1,5 +1,5 @@
-def function(x : int ,a):
-    return (x + a * 10 )
+def function(x : int ,b):
+    return (x + b * 10 )
 
 
 print (function(a = 4 , x = 3))
